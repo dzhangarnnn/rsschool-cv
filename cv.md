@@ -9,3 +9,7 @@
 ## About Me
 
 _I'm a geologist working in Norilsk Nickel. I am also studying to become a frontend developer._
+
+## Professional experience
+
+2015 - 2021 _Geologist in the North of Russia_
